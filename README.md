@@ -24,4 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shyamkumarsingh077&show_icons=true&locale=en" alt="shyamkumarsingh077" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shyamkumarsingh077&" alt="shyamkumarsingh077" /></p>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shyamkumarsingh077&theme=dracula)](https://github.com/shyamkumarsingh077/github-readme-activity-graph)
+[![Shyam Singh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shyamkumarsingh077&theme=dracula)](https://github.com/shyamkumarsingh077/github-readme-activity-graph)
