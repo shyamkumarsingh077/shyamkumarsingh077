@@ -27,3 +27,4 @@
 [![Shyam Singh's github activity graph](https://activity-graph.herokuapp.com/graph?username=shyamkumarsingh077&theme=dracula)](https://github.com/shyamkumarsingh077/github-readme-activity-graph)
 ![Shyam Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=shyamkumarsingh077&count_private=true)
 
+<p><img align="left" src="[https://github-readme-stats.vercel.app/api/top-langs?username=shyamkumarsingh077&show_icons=true&locale=en&layout=compact](https://activity-graph.herokuapp.com/graph?username=shyamkumarsingh077&theme=dracula))" alt="shyamkumarsingh077" /></p>
