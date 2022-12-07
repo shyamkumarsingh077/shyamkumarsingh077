@@ -5,7 +5,7 @@
 
 
 
-- 🌱 I’m currently learning ****
+- 🌱 I’m currently learning Front-End Development
 
 - 📫 How to reach me **singhshyamkumar01@gmail.com**
 
